@@ -1,4 +1,3 @@
-# school-management-system
 
 import mysql.connector as p 
 dat=p.connect(host="localhost",user="root",passwd="purva",database="school") 
